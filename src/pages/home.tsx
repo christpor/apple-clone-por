@@ -3,12 +3,11 @@ import { HeroUnit } from '../components/hero-unit';
 import { PromoTile } from '../components/promo-tile';
 import { EntertainmentCarousel } from '../components/entertainment-carousel';
 import { BENTO_PROMO_TILES } from '../data/apple-content';
-import { motion } from 'framer-motion';
 
 export function HomePage() {
   return (
-    <div className="w-full">
-      {/* 1. Flagship Hero 1: iPhone 18 Pro with Real Apple 2x Retina Asset */}
+    <div className="w-full overflow-hidden">
+      {/* 1. Flagship Hero 1: iPhone 18 Pro Full-Bleed Titanium Smoke */}
       <HeroUnit
         id="iphone-18-pro"
         headline="iPhone 18 Pro"
@@ -17,21 +16,17 @@ export function HomePage() {
         theme="dark"
         buyLabel="Pre-order"
         visualGraphic={
-          <div className="relative w-full max-w-[1260px] mx-auto flex items-center justify-center">
-            <motion.img
-              initial={{ scale: 0.98, opacity: 0 }}
-              whileInView={{ scale: 1, opacity: 1 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
+          <div className="relative w-full flex items-center justify-center">
+            <img
               src="/assets/images/iphone_18_pro_startframe_2x.jpg"
               alt="iPhone 18 Pro with PRO titanium text and smoke"
-              className="w-full h-auto object-cover max-h-[580px]"
+              className="w-full max-w-[1480px] h-auto max-h-[680px] sm:max-h-[760px] object-contain drop-shadow-2xl"
             />
           </div>
         }
       />
 
-      {/* 2. Flagship Hero 2: iPhone Duo with Real Apple Foldable Retina Asset */}
+      {/* 2. Flagship Hero 2: iPhone Duo Full-Bleed Foldable Dual Display */}
       <HeroUnit
         id="iphone-duo"
         headline="iPhone Duo"
@@ -40,21 +35,17 @@ export function HomePage() {
         theme="light"
         buyLabel="View pricing"
         visualGraphic={
-          <div className="relative w-full max-w-4xl flex items-center justify-center">
-            <motion.img
-              initial={{ scale: 0.96, opacity: 0, y: 20 }}
-              whileInView={{ scale: 1, opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
+          <div className="relative w-full flex items-center justify-center">
+            <img
               src="/assets/images/iphone_duo_hero_2x.jpg"
               alt="iPhone Duo foldable dual display"
-              className="relative z-10 w-full max-h-[420px] object-contain drop-shadow-xl"
+              className="w-full max-w-[1280px] h-auto max-h-[580px] sm:max-h-[660px] object-contain drop-shadow-xl"
             />
           </div>
         }
       />
 
-      {/* 3. Flagship Hero 3: Apple Watch Series 12 with Real Apple Sensor Graphics */}
+      {/* 3. Flagship Hero 3: Apple Watch Series 12 Sensor Array */}
       <HeroUnit
         id="apple-watch-series-12"
         headline="Apple Watch Series 12"
@@ -63,15 +54,11 @@ export function HomePage() {
         theme="dark"
         buyLabel="Pre-order"
         visualGraphic={
-          <div className="relative w-full max-w-4xl flex items-center justify-center">
-            <motion.img
-              initial={{ scale: 0.95, opacity: 0, y: 20 }}
-              whileInView={{ scale: 1, opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
+          <div className="relative w-full flex items-center justify-center">
+            <img
               src="/assets/images/apple_watch_series_12_hero_2x.jpg"
               alt="Apple Watch Series 12 dual devices with optical health sensors"
-              className="relative z-10 w-full max-h-[420px] object-contain drop-shadow-2xl"
+              className="w-full max-w-[1240px] h-auto max-h-[560px] sm:max-h-[640px] object-contain drop-shadow-2xl"
             />
           </div>
         }
@@ -94,14 +81,14 @@ export function HomePage() {
               <img
                 src={tile.image}
                 alt={tile.imageAlt}
-                className="w-full max-h-[280px] object-contain drop-shadow-lg"
+                className="w-full max-h-[290px] object-contain drop-shadow-lg"
               />
             }
           />
         ))}
       </section>
 
-      {/* 5. Apple TV+ Endless Entertainment Kinetic Carousel */}
+      {/* 5. Apple TV+ Endless Entertainment Kinetic Infinite Ribbon Carousel */}
       <EntertainmentCarousel />
 
       {/* Footnote Disclosures */}
