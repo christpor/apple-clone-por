@@ -1,0 +1,42 @@
+{
+  "target_url": "https://www.apple.com/",
+  "assets": {
+    "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png": "/assets/images/logo_hero_light__d7t8cya4x26a_small.png",
+    "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small_2x.png": "/assets/images/logo_hero_light__d7t8cya4x26a_small_2x.png",
+    "https://www.apple.com/v/homepage/images/airpods-5/a/promo_airpods_5_preorder__lydvte0llb6i_large.jpg": "/assets/images/promo_airpods_5_preorder__lydvte0llb6i_large.jpg",
+    "https://www.apple.com/v/homepage/images/airpods-5/a/promo_airpods_5_preorder__lydvte0llb6i_large_2x.jpg": "/assets/images/promo_airpods_5_preorder__lydvte0llb6i_large_2x.jpg",
+    "https://www.apple.com/v/homepage/images/airpods-5/a/promo_airpods_5_preorder__lydvte0llb6i_medium.jpg": "/assets/images/promo_airpods_5_preorder__lydvte0llb6i_medium.jpg",
+    "https://www.apple.com/v/homepage/images/airpods-5/a/promo_airpods_5_preorder__lydvte0llb6i_medium_2x.jpg": "/assets/images/promo_airpods_5_preorder__lydvte0llb6i_medium_2x.jpg",
+    "https://www.apple.com/v/homepage/images/airpods-5/a/promo_airpods_5_preorder__lydvte0llb6i_small.jpg": "/assets/images/promo_airpods_5_preorder__lydvte0llb6i_small.jpg",
+    "https://www.apple.com/v/homepage/images/airpods-5/a/promo_airpods_5_preorder__lydvte0llb6i_small_2x.jpg": "/assets/images/promo_airpods_5_preorder__lydvte0llb6i_small_2x.jpg",
+    "https://www.apple.com/v/homepage/images/apple-card/a/promo_apple_card__d8xz4kd4evwy_large.jpg": "/assets/images/promo_apple_card__d8xz4kd4evwy_large.jpg",
+    "https://www.apple.com/v/homepage/images/apple-card/a/promo_apple_card__d8xz4kd4evwy_large_2x.jpg": "/assets/images/promo_apple_card__d8xz4kd4evwy_large_2x.jpg",
+    "https://www.apple.com/v/homepage/images/apple-card/a/promo_apple_card__d8xz4kd4evwy_medium.jpg": "/assets/images/promo_apple_card__d8xz4kd4evwy_medium.jpg",
+    "https://www.apple.com/v/homepage/images/apple-card/a/promo_apple_card__d8xz4kd4evwy_medium_2x.jpg": "/assets/images/promo_apple_card__d8xz4kd4evwy_medium_2x.jpg",
+    "https://www.apple.com/v/homepage/images/apple-card/a/promo_apple_card__d8xz4kd4evwy_small.jpg": "/assets/images/promo_apple_card__d8xz4kd4evwy_small.jpg",
+    "https://www.apple.com/v/homepage/images/apple-card/a/promo_apple_card__d8xz4kd4evwy_small_2x.jpg": "/assets/images/promo_apple_card__d8xz4kd4evwy_small_2x.jpg",
+    "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade__jvn6udm4tx2e_large.jpg": "/assets/images/promo_apple_upgrade__jvn6udm4tx2e_large.jpg",
+    "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade__jvn6udm4tx2e_large_2x.jpg": "/assets/images/promo_apple_upgrade__jvn6udm4tx2e_large_2x.jpg",
+    "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade__jvn6udm4tx2e_medium.jpg": "/assets/images/promo_apple_upgrade__jvn6udm4tx2e_medium.jpg",
+    "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade__jvn6udm4tx2e_medium_2x.jpg": "/assets/images/promo_apple_upgrade__jvn6udm4tx2e_medium_2x.jpg",
+    "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade__jvn6udm4tx2e_small.jpg": "/assets/images/promo_apple_upgrade__jvn6udm4tx2e_small.jpg",
+    "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade__jvn6udm4tx2e_small_2x.jpg": "/assets/images/promo_apple_upgrade__jvn6udm4tx2e_small_2x.jpg",
+    "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade_startframe__e9bf3nb054ae_large.jpg": "/assets/images/promo_apple_upgrade_startframe__e9bf3nb054ae_large.jpg",
+    "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade_startframe__e9bf3nb054ae_large_2x.jpg": "/assets/images/promo_apple_upgrade_startframe__e9bf3nb054ae_large_2x.jpg",
+    "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade_startframe__e9bf3nb054ae_medium.jpg": "/assets/images/promo_apple_upgrade_startframe__e9bf3nb054ae_medium.jpg",
+    "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade_startframe__e9bf3nb054ae_medium_2x.jpg": "/assets/images/promo_apple_upgrade_startframe__e9bf3nb054ae_medium_2x.jpg",
+    "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade_startframe__e9bf3nb054ae_small.jpg": "/assets/images/promo_apple_upgrade_startframe__e9bf3nb054ae_small.jpg"
+  },
+  "svgs": [
+    "/assets/svg/vector_00.svg",
+    "/assets/svg/vector_01.svg",
+    "/assets/svg/vector_02.svg",
+    "/assets/svg/vector_03.svg",
+    "/assets/svg/vector_04.svg",
+    "/assets/svg/vector_05.svg",
+    "/assets/svg/vector_06.svg",
+    "/assets/svg/vector_07.svg",
+    "/assets/svg/vector_08.svg",
+    "/assets/svg/vector_09.svg"
+  ]
+}
