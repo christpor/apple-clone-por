@@ -18,9 +18,9 @@ export function HomePage() {
         visualGraphic={
           <div className="relative w-full flex items-center justify-center">
             <img
-              src="/assets/images/iphone_18_pro_startframe_2x.jpg"
+              src="/assets/images/iphone_18_pro_flagship_retina.jpg"
               alt="iPhone 18 Pro with PRO titanium text and smoke"
-              className="w-full max-w-[1480px] h-auto max-h-[680px] sm:max-h-[760px] object-contain drop-shadow-2xl"
+              className="w-full max-w-[1360px] h-auto max-h-[620px] sm:max-h-[680px] object-contain drop-shadow-2xl"
             />
           </div>
         }
@@ -39,7 +39,7 @@ export function HomePage() {
             <img
               src="/assets/images/iphone_duo_hero_2x.jpg"
               alt="iPhone Duo foldable dual display"
-              className="w-full max-w-[1280px] h-auto max-h-[580px] sm:max-h-[660px] object-contain drop-shadow-xl"
+              className="w-full max-w-[1300px] h-auto max-h-[560px] sm:max-h-[640px] object-contain drop-shadow-xl"
             />
           </div>
         }
@@ -56,9 +56,9 @@ export function HomePage() {
         visualGraphic={
           <div className="relative w-full flex items-center justify-center">
             <img
-              src="/assets/images/apple_watch_series_12_hero_2x.jpg"
+              src="/assets/images/apple_watch_series_12_flagship_retina.jpg"
               alt="Apple Watch Series 12 dual devices with optical health sensors"
-              className="w-full max-w-[1240px] h-auto max-h-[560px] sm:max-h-[640px] object-contain drop-shadow-2xl"
+              className="w-full max-w-[880px] h-auto max-h-[560px] sm:max-h-[640px] object-contain drop-shadow-2xl"
             />
           </div>
         }
